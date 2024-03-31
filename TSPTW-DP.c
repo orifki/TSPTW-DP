@@ -1,7 +1,7 @@
 /*
  * Omar Rifki 
- *   Code modified from an initial code of Christine Solnon
- *   to solve the TSPTW. It accounts for two objective functions:
+ *   Code modified from an initial code of Christine Solnon.
+ *   It solves the TSPTW with two objective functions:
  *   Makespan and travel times.
  *
  * To compile: gcc -o prog -O3 TSPTW-DP.c
