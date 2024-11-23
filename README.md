@@ -1,8 +1,8 @@
 # TSPTW-DP
-A C code solving the Traveling salesman problem with time windows using Dynamic Programming. Both objective functions (makespan and travel times) are taken into account. 
+A C implementation for solving the Traveling Salesman Problem with Time Windows (TSPTW) using Dynamic Programming (DP). This approach considers both objective functions: makespan and travel times
 
 # Citation 
-If you are using this code in your work, we would appreciate a citation to the following paper.
+If you find this code helpful in your research or projects, please consider citing the following paper:
 ```
 @inproceedings{rifki2021asymptotic,
   title={An asymptotic approximation of the traveling salesman problem with uniform non-overlapping time windows},
